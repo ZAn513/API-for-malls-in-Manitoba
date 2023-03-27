@@ -15,4 +15,7 @@ https://www.shopping-canada.com/shopping-malls-centers/manitoba
 ### Variables:
 Location, Open time, Close time, Number of stores
 
+### Contributors:
+https://github.com/ChristianTrites - Christian Trites #7823653
+
 
