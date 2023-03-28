@@ -41,7 +41,7 @@ This is an API for people to generate the list of all the malls or search malls 
 
 **Mall:** Used to hold and to retrieve the information of the malls.
 ```
-{s
+{
     "mall": {
         "mallName:", 
         "location:",
