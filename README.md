@@ -104,8 +104,6 @@ GET /malls/listByCity?city=Winnipeg
 ```
 
 **Sample Response:**
-
-**Sample Response:**
 ```
 {
     "result": [
