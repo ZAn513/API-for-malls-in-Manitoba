@@ -84,4 +84,5 @@ GET http://api.winnipegmallnetwork.net/data/list.json?location=*
 
 [List of Manitoba Malls](https://www.shopping-canada.com/shopping-malls-centers/manitoba)
 
-
+## Contributors:
+https://github.com/ChristianTrites - Christian Trites #7823653
