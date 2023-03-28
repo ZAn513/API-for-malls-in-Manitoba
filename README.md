@@ -9,6 +9,10 @@ This is an API for people to generate the list of all the malls or search malls 
 **GET** malls - Retrieve the list of all malls in Manitoba.
 
 >**Parameters:** None. 
+>
+>**Responses:**
+>- 200: Operation Success.
+>- 400: Bad Request
 
 <br>
 
@@ -16,6 +20,10 @@ This is an API for people to generate the list of all the malls or search malls 
 
 >**Parameters:**
 >- cityName (String) : Name of the City that needs retrieving malls.
+>
+>**Responses:**
+>- 200: Operation Success.
+>- 400: Invalid city Name
 
 <br>
 
@@ -24,12 +32,16 @@ This is an API for people to generate the list of all the malls or search malls 
 >**Parameters:**
 >- openingHour (String): Hour that the mall will open.
 >- closingHour (String): Hour that the mall will close.
+>
+>**Responses:**
+>- 200: Operation Success.
+>- 400: Invalid hour format.
 
 ## RESOURCES:
 
 **Mall:** Used to hold and to retrieve the information of the malls.
 ```
-{
+{s
     "mall": {
         "mallName:", 
         "location:",
