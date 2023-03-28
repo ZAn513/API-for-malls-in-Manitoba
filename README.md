@@ -137,8 +137,8 @@ GET /malls/listByCity?city=Winnipeg
 # CONTRIBUTORS:
 
 - https://github.com/ChristianTrites - Christian Trites #7823653
-- https://github.com/ZAn513 - Zhiyin An
-- https://github.com/komeegbedi - Oghenekome Egbedi
-- https://github.com/lehuykhanh41 - Khanh Le
+- https://github.com/ZAn513 - Zhiyin An #7882951
+- https://github.com/komeegbedi - Oghenekome Egbedi #7875973
+- https://github.com/lehuykhanh41 - Khanh Le #7875990
 
 
